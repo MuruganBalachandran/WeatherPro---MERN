@@ -2,10 +2,8 @@
 
 A modern weather application built with React, Node.js, and MongoDB.
 
-## 🚀 Live Demo
 
-- **Frontend**: [https://weatherpro-frontend.onrender.com](https://weatherpro-frontend.onrender.com)
-- **Backend API**: [https://weatherpro-backend.onrender.com](https://weatherpro-backend.onrender.com)
+[## 🚀 Live Demo](https://weatherpro-mern.onrender.com/)
 
 ## ✨ Features
 
