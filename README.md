@@ -3,7 +3,7 @@
 A modern weather application built with React, Node.js, and MongoDB.
 
 
-[## 🚀 Live Demo](https://weatherpro-mern.onrender.com/)
+[🚀 Live Demo](https://weatherpro-mern.onrender.com/)
 
 ## ✨ Features
 
